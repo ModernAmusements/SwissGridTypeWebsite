@@ -590,7 +590,6 @@ Usage:
 }
 
 .input {
-  font-family: "RecVF";
   font-size: var(--fontSize);
   line-height: var(--lineHeight);
   background: var(--background-color);
