@@ -65,7 +65,6 @@ style.appendChild(document.createTextNode(css))
 document.head.appendChild(style)
 let link = document.createElement('link')
 link.rel = "stylesheet"
-link.href = "../raster.debug.css"
 document.head.appendChild(link)
 
 

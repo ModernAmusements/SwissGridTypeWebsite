@@ -160,6 +160,7 @@ img {
 button,
 optgroup,
 select,
+input,
 textarea {
   font-family: inherit; /* 1 */
   font-size: 100%; /* 1 */
