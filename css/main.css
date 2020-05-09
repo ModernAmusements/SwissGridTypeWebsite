@@ -66,9 +66,9 @@ body {
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ThinItalic.woff2")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ThinItalic.woff2")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Thin.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Thin.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -76,9 +76,9 @@ body {
   font-style: italic;
   font-weight: 100;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ThinItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ThinItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ThinItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ThinItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -87,9 +87,9 @@ body {
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraLight.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraLight.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraLight.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraLight.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -97,9 +97,9 @@ body {
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraLightItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraLightItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraLightItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraLightItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -108,9 +108,9 @@ body {
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Light.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Light.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Light.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Light.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -118,9 +118,9 @@ body {
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-LightItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-LightItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-LightItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-LightItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -129,9 +129,9 @@ body {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Regular.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Regular.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Regular.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Regular.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -139,9 +139,9 @@ body {
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Italic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Italic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Italic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Italic.woff?v=3.13")
       format("woff");
 }
 
@@ -150,9 +150,9 @@ body {
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Medium.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Medium.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Medium.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Medium.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -160,9 +160,9 @@ body {
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-MediumItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-MediumItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-MediumItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-MediumItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -171,9 +171,9 @@ body {
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-SemiBold.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-SemiBold.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-SemiBold.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-SemiBold.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -181,9 +181,9 @@ body {
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-SemiBoldItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-SemiBoldItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-SemiBoldItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-SemiBoldItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -192,9 +192,9 @@ body {
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Bold.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Bold.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Bold.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Bold.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -202,9 +202,9 @@ body {
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-BoldItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-BoldItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-BoldItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-BoldItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -213,9 +213,9 @@ body {
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraBold.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraBold.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraBold.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraBold.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -223,9 +223,9 @@ body {
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraBoldItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraBoldItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-ExtraBoldItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-ExtraBoldItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -234,9 +234,9 @@ body {
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Black.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Black.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-Black.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-Black.woff?v=3.13")
       format("woff");
 }
 @font-face {
@@ -244,9 +244,9 @@ body {
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-BlackItalic.woff2?v=3.13")
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-BlackItalic.woff2?v=3.13")
       format("woff2"),
-    url("/SwissGridTypeWebsite.github.io/fonts/InterWeb/Inter-BlackItalic.woff?v=3.13")
+    url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/InterWeb/Inter-BlackItalic.woff?v=3.13")
       format("woff");
 }
 
@@ -254,7 +254,7 @@ body {
   font-family: "RecVF";
   font-weight: 300 1000;
   font-style: oblique 0deg 14deg;
-  src: url("/SwissGridTypeWebsite.github.io/fonts/Recursive_VF_1.047.woff2");
+  src: url("https://modernamusements.github.io/SwissGridTypeWebsite/css/fonts/Recursive_VF_1.047.woff2");
 }
 
 /* ----
