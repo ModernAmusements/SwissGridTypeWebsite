@@ -264,9 +264,7 @@ body {
   font-family: "RecVF";
   font-weight: 300 1000;
   font-style: oblique 0deg 14deg;
-  src: url("/fonts/Favorit-Light.eot");
-  src: url("/fonts/Favorit-Light.eot#iefix") format("embedded-opentype"),
-    url("/fonts/Favorit-Light.woff2") format("woff2");
+  src: url("/fonts/Inter.var.woff2");
 }
 
 /* ----
@@ -637,6 +635,7 @@ Usage:
 }
 
 .input {
+  font-family: "RecVF";
   font-size: var(--fontSize);
   line-height: var(--lineHeight);
   background: var(--background-color);
