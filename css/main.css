@@ -263,7 +263,9 @@ body {
   font-family: "Inter.var";
   font-weight: 300 1000;
   font-style: oblique 0deg 14deg;
-  src: url("/fonts/Inter.var.woff2");
+  src: url("/fonts/Inter.woff2") format("woff2"),
+    url("/fonts/Inter.woff") format("woff"),
+    url("/fonts/Inter.otf") format("truetype");
 }
 
 /* ----
