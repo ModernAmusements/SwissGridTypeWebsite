@@ -66,16 +66,16 @@ body {
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-ThinItalic.woff2") format("woff2"),
-    url("/content/InterWeb/Inter-Thin.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-ThinItalic.woff2") format("woff2"),
+    url("/fonts/InterWeb/Inter-Thin.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 100;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-ThinItalic.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-ThinItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-ThinItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-ThinItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -83,17 +83,17 @@ body {
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-ExtraLight.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-ExtraLight.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-ExtraLight.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-ExtraLight.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-ExtraLightItalic.woff2?v=3.13")
+  src: url("/fonts/InterWeb/Inter-ExtraLightItalic.woff2?v=3.13")
       format("woff2"),
-    url("/content/InterWeb/Inter-ExtraLightItalic.woff?v=3.13") format("woff");
+    url("/fonts/InterWeb/Inter-ExtraLightItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -101,16 +101,16 @@ body {
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-Light.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-Light.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-Light.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-Light.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-LightItalic.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-LightItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-LightItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-LightItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -118,16 +118,16 @@ body {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-Regular.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-Regular.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-Regular.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-Regular.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-Italic.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-Italic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-Italic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-Italic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -135,16 +135,16 @@ body {
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-Medium.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-Medium.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-Medium.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-Medium.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-MediumItalic.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-MediumItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-MediumItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-MediumItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -152,17 +152,16 @@ body {
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-SemiBold.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-SemiBold.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-SemiBold.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-SemiBold.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-SemiBoldItalic.woff2?v=3.13")
-      format("woff2"),
-    url("/content/InterWeb/Inter-SemiBoldItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-SemiBoldItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-SemiBoldItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -170,16 +169,16 @@ body {
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-Bold.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-Bold.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-Bold.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-Bold.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-BoldItalic.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-BoldItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-BoldItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-BoldItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -187,17 +186,16 @@ body {
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-ExtraBold.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-ExtraBold.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-ExtraBold.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-ExtraBold.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-ExtraBoldItalic.woff2?v=3.13")
-      format("woff2"),
-    url("/content/InterWeb/Inter-ExtraBoldItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-ExtraBoldItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-ExtraBoldItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
@@ -205,23 +203,23 @@ body {
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-Black.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-Black.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-Black.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-Black.woff?v=3.13") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url("/content/InterWeb/Inter-BlackItalic.woff2?v=3.13") format("woff2"),
-    url("/content/InterWeb/Inter-BlackItalic.woff?v=3.13") format("woff");
+  src: url("/fonts/InterWeb/Inter-BlackItalic.woff2?v=3.13") format("woff2"),
+    url("/fonts/InterWeb/Inter-BlackItalic.woff?v=3.13") format("woff");
 }
 
 @font-face {
   font-family: "RecVF";
   font-weight: 300 1000;
   font-style: oblique 0deg 14deg;
-  src: url("/content/RevVF/Recursive_VF_1.047.woff2");
+  src: url("/fonts/Recursive_VF_1.047.woff2");
 }
 
 /* ----
@@ -522,7 +520,7 @@ Usage:
   width: 23px;
   height: 24px;
   border: 0;
-  background: url("/content/icons/S_TextSize_Md_N@2x.svg");
+  background: url("/fonts/icons/S_TextSize_Md_N@2x.svg");
   cursor: pointer;
 }
 /* Firefox */
@@ -530,7 +528,7 @@ Usage:
   width: 23px;
   height: 24px;
   border: 0;
-  background: url("/content/icons/S_TextSize_Md_N@2x.svg");
+  background: url("/fonts/icons/S_TextSize_Md_N@2x.svg");
   cursor: pointer;
 }
 /* WIDHT */
@@ -555,7 +553,7 @@ Usage:
   width: 23px;
   height: 24px;
   border: 0;
-  background: url("/content/icons/S_Width_Md_N@2x.svg");
+  background: url("/fonts/icons/S_Width_Md_N@2x.svg");
   cursor: pointer;
 }
 /* Firefox */
@@ -563,7 +561,7 @@ Usage:
   width: 23px;
   height: 24px;
   border: 0;
-  background: url("/content/icons/S_Width_Md_N@2x.svg");
+  background: url("/fonts/icons/S_Width_Md_N@2x.svg");
   cursor: pointer;
 }
 
