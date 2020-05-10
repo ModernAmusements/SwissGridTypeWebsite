@@ -145,7 +145,10 @@ a:active,
 a:visited {
   color: inherit;
 }
-/* Raster grid subsystem (rsms.me/raster) */
+/* reset */
+/* 
+  ALLGEMEIN 
+*/
 
 html {
   font-family: var(--sansFont), -system-ui, system-ui, sans-serif;
@@ -179,10 +182,6 @@ body {
     padding-bottom: calc(var(--lineHeight) * 2);
   }
 }
-
-/* 
-  ALLGEMEIN 
-*/
 
 :root {
   --fontSize: 15px;
@@ -224,8 +223,7 @@ body {
     url("/fonts/Inter.woff") format("woff"),
     url("/fonts/Inter.otf") format("truetype");
 }
-bottom: var(--blockSpacingBottom);
-}
+
 /* first element has no top margin */
 :first-child {
   margin-top: unset;
