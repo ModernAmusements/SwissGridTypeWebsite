@@ -226,7 +226,7 @@ body {
 
 /* first element has no top margin */
 :first-child {
-  margin-top: unset;
+  margin: unset;
 }
 :last-child {
   margin-bottom: unset;
@@ -1244,6 +1244,7 @@ input {
     /* grid-template-columns: calc(40vw - var(--padding-unit)) calc(65vw - var(--padding-unit)); */
     grid-template-columns: 35vw calc(65vw - var(--padding-unit));
     column-gap: 0;
+    margin-left: 15px;
   }
 }
 
