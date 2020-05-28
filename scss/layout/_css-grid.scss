@@ -1,0 +1,60 @@
+
+/* CSS-GRID-DESKTOP */ /*---------------------------------------------------------------------------------------------------*/
+
+.headline {
+    grid-area: 1 / 1 / 1 / 7;
+  }
+  
+  .invert {
+    grid-area: 1 / 7 / 1 / 9;
+  }
+  
+  .controls {
+    grid-area: 3/ 5 / 3 / 9;
+  }
+  
+  .type-viewer {
+    grid-area: 2 / 1 / 2 / 9;
+  }
+  
+  .work-headline {
+    grid-area: 1 / 5 / 1 / 9;
+  }
+  
+  hr {
+    grid-area: 4 / 1 / 4 / 9;
+  }
+  
+  .work-text {
+    grid-area: 2 / 5 / 2 / 9;
+  }
+  
+  .typo-text {
+    grid-area: 5 / 5 / 5 / 9;
+  }
+  
+  .work-content {
+    grid-area: 1 / 1 / 4 / 5;
+  }
+  
+  .introduction {
+    grid-area: 2 / 1 / 2 / 3;
+  }
+  
+  .sub-headline {
+    grid-area: 2 / 5 / 2 / 5;
+  }
+  
+  .sub-headline-2 {
+    grid-area: 2 / 7 / 2 / 9;
+  }
+  
+  img,
+  .slider,
+  .swiper-wrapper,
+  .swiper-container {
+    grid-area: 3 / 2 / 3 / 5;
+    width: 100%;
+    height: auto;
+  }
+
