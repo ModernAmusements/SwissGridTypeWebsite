@@ -2,6 +2,15 @@
 // BASE
 // -----------------------------------------------------------------------------
 
+
+$defaultBackground: var(--background-color);
+
+$defaultColor: var(--foreground-color);
+$text-ghost: #ececec;
+$text-ghostShadow: -1px 0 1px #fff, 1px 0 1px #a2a2a2;
+
+
+
 @supports (font-variation-settings: normal) {
   :root {
     --sansFont: "Inter var";
@@ -38,8 +47,8 @@ html {
   font-family: var(--sansFont);
   font-size: var(--fontSize);
   line-height: var(--lineHeight);
-  background: var(--background-color);
-  color: var(--foreground-color);
+  background: $defaultBackground;
+  color: $defaultColor;
   letter-spacing: -0.01em;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -94,14 +103,6 @@ body {
   --swiper-theme-color: #fafafa !important;
 }
 
-@font-face {
-  font-family: "Inter.var";
-  font-weight: 300 1000;
-  font-style: oblique 0deg 14deg;
-  src: url("/fonts/Inter.woff2") format("woff2"),
-    url("/fonts/Inter.woff") format("woff"),
-    url("/fonts/Inter.otf") format("truetype");
-}
 
 /* first element has no top margin */
 :first-child {

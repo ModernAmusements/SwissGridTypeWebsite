@@ -1,6 +1,11 @@
 // -----------------------------------------------------------------------------
 // FONTS
 // -----------------------------------------------------------------------------
+$Inter: "Inter var";
+$Modor: "Modor";
+
+
+
 @font-face {
     font-family: "Inter.var";
     font-weight: 300 1000;
@@ -8,4 +13,18 @@
     src: url("/fonts/Inter.woff2") format("woff2"),
       url("/fonts/Inter.woff") format("woff"),
       url("/fonts/Inter.otf") format("truetype");
+  }
+
+
+  @font-face {
+    font-family: "Modor";
+    src: url("fonts/Modor-Regular/Modor-Regular.eot");
+    src: url("fonts/Modor-Regular/Modor-Regular.eot?#iefix")
+        format("embedded-opentype"),
+      url("fonts/Modor-Regular/Modor-Regular.woff2") format("woff2"),
+      url("fonts/Modor-Regular/Modor-Regular.woff") format("woff"),
+      url("fonts/Modor-Regular/Modor-Regular.ttf") format("truetype"),
+      url("fonts/Modor-Regular/Modor-Regular.svg#Modor-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
   }
